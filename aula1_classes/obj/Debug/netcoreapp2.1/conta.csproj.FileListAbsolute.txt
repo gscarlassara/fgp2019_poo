@@ -1,0 +1,22 @@
+/Users/jcalbertin/Documents/projetos3/conta/bin/Debug/netcoreapp2.1/conta.deps.json
+/Users/jcalbertin/Documents/projetos3/conta/bin/Debug/netcoreapp2.1/conta.runtimeconfig.json
+/Users/jcalbertin/Documents/projetos3/conta/bin/Debug/netcoreapp2.1/conta.runtimeconfig.dev.json
+/Users/jcalbertin/Documents/projetos3/conta/bin/Debug/netcoreapp2.1/conta.dll
+/Users/jcalbertin/Documents/projetos3/conta/bin/Debug/netcoreapp2.1/conta.pdb
+/Users/jcalbertin/Documents/projetos3/conta/obj/Debug/netcoreapp2.1/conta.csprojAssemblyReference.cache
+/Users/jcalbertin/Documents/projetos3/conta/obj/Debug/netcoreapp2.1/conta.csproj.CoreCompileInputs.cache
+/Users/jcalbertin/Documents/projetos3/conta/obj/Debug/netcoreapp2.1/conta.AssemblyInfoInputs.cache
+/Users/jcalbertin/Documents/projetos3/conta/obj/Debug/netcoreapp2.1/conta.AssemblyInfo.cs
+/Users/jcalbertin/Documents/projetos3/conta/obj/Debug/netcoreapp2.1/conta.dll
+/Users/jcalbertin/Documents/projetos3/conta/obj/Debug/netcoreapp2.1/conta.pdb
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/bin/Debug/netcoreapp2.1/conta.deps.json
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/bin/Debug/netcoreapp2.1/conta.runtimeconfig.json
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/bin/Debug/netcoreapp2.1/conta.runtimeconfig.dev.json
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/bin/Debug/netcoreapp2.1/conta.dll
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/bin/Debug/netcoreapp2.1/conta.pdb
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.csprojAssemblyReference.cache
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.csproj.CoreCompileInputs.cache
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.AssemblyInfoInputs.cache
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.AssemblyInfo.cs
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.dll
+/Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.pdb
