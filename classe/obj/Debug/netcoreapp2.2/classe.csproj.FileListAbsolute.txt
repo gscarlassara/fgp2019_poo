@@ -1,0 +1,11 @@
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\bin\Debug\netcoreapp2.2\classe.deps.json
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\bin\Debug\netcoreapp2.2\classe.runtimeconfig.json
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\bin\Debug\netcoreapp2.2\classe.runtimeconfig.dev.json
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\bin\Debug\netcoreapp2.2\classe.dll
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\bin\Debug\netcoreapp2.2\classe.pdb
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\obj\Debug\netcoreapp2.2\classe.csprojAssemblyReference.cache
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\obj\Debug\netcoreapp2.2\classe.csproj.CoreCompileInputs.cache
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\obj\Debug\netcoreapp2.2\classe.AssemblyInfoInputs.cache
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\obj\Debug\netcoreapp2.2\classe.AssemblyInfo.cs
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\obj\Debug\netcoreapp2.2\classe.dll
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\classe\obj\Debug\netcoreapp2.2\classe.pdb

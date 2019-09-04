@@ -39,8 +39,8 @@ namespace conta
             Conta1.Imprime();
             Conta1.sacar(150);
             Conta1.Imprime();
-            Conta1.Saldo = 100000;
-            Conta1.Imprime();
+            //Conta1.Saldo = 100000;
+            //Conta1.Imprime(); 
 
 
 

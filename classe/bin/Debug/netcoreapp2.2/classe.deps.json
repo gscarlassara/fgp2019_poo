@@ -1,20 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.1",
+    "name": ".NETCoreApp,Version=v2.2",
     "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v2.1": {
-      "conta/1.0.0": {
+    ".NETCoreApp,Version=v2.2": {
+      "classe/1.0.0": {
         "runtime": {
-          "conta.dll": {}
+          "classe.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "conta/1.0.0": {
+    "classe/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

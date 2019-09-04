@@ -39,9 +39,6 @@ namespace conta
         }
 
         public void Imprime() {
-            //Console.WriteLine("Conta: " + Numero);
-            //Console.WriteLine("saldo: " + Saldo);
-            //Console.WriteLine("ativo: " + ativa);
             Console.WriteLine("Conta: {0} - saldo: {1} - ativa: {2}",
             this.Numero,
             this.Saldo,

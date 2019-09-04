@@ -20,3 +20,14 @@
 /Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.AssemblyInfo.cs
 /Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.dll
 /Users/jcalbertin/Documents/aulas/fgp/poo 2019/git_aula2019/fgp2019_poo/aula1_classes/obj/Debug/netcoreapp2.1/conta.pdb
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\bin\Debug\netcoreapp2.1\conta.deps.json
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\bin\Debug\netcoreapp2.1\conta.runtimeconfig.json
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\bin\Debug\netcoreapp2.1\conta.runtimeconfig.dev.json
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\bin\Debug\netcoreapp2.1\conta.dll
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\bin\Debug\netcoreapp2.1\conta.pdb
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\obj\Debug\netcoreapp2.1\conta.csprojAssemblyReference.cache
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\obj\Debug\netcoreapp2.1\conta.csproj.CoreCompileInputs.cache
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\obj\Debug\netcoreapp2.1\conta.AssemblyInfoInputs.cache
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\obj\Debug\netcoreapp2.1\conta.AssemblyInfo.cs
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\obj\Debug\netcoreapp2.1\conta.dll
+C:\Users\JoséCarlosAlbertinJo\Documents\projetos\fgp2019_poo\aula1_classes\obj\Debug\netcoreapp2.1\conta.pdb
