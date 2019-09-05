@@ -1,0 +1,11 @@
+/Users/jcalbertin/Documents/projetos3/encapsulamento/obj/Debug/netcoreapp2.1/encapsulamento.csprojAssemblyReference.cache
+/Users/jcalbertin/Documents/projetos3/encapsulamento/obj/Debug/netcoreapp2.1/encapsulamento.csproj.CoreCompileInputs.cache
+/Users/jcalbertin/Documents/projetos3/encapsulamento/obj/Debug/netcoreapp2.1/encapsulamento.AssemblyInfoInputs.cache
+/Users/jcalbertin/Documents/projetos3/encapsulamento/obj/Debug/netcoreapp2.1/encapsulamento.AssemblyInfo.cs
+/Users/jcalbertin/Documents/projetos3/encapsulamento/bin/Debug/netcoreapp2.1/encapsulamento.deps.json
+/Users/jcalbertin/Documents/projetos3/encapsulamento/bin/Debug/netcoreapp2.1/encapsulamento.runtimeconfig.json
+/Users/jcalbertin/Documents/projetos3/encapsulamento/bin/Debug/netcoreapp2.1/encapsulamento.runtimeconfig.dev.json
+/Users/jcalbertin/Documents/projetos3/encapsulamento/bin/Debug/netcoreapp2.1/encapsulamento.dll
+/Users/jcalbertin/Documents/projetos3/encapsulamento/bin/Debug/netcoreapp2.1/encapsulamento.pdb
+/Users/jcalbertin/Documents/projetos3/encapsulamento/obj/Debug/netcoreapp2.1/encapsulamento.dll
+/Users/jcalbertin/Documents/projetos3/encapsulamento/obj/Debug/netcoreapp2.1/encapsulamento.pdb
