@@ -1,0 +1,11 @@
+C:\aulas\fgp2019_poo\proprietarios\bin\Debug\netcoreapp2.2\proprietarios.deps.json
+C:\aulas\fgp2019_poo\proprietarios\bin\Debug\netcoreapp2.2\proprietarios.runtimeconfig.json
+C:\aulas\fgp2019_poo\proprietarios\bin\Debug\netcoreapp2.2\proprietarios.runtimeconfig.dev.json
+C:\aulas\fgp2019_poo\proprietarios\bin\Debug\netcoreapp2.2\proprietarios.dll
+C:\aulas\fgp2019_poo\proprietarios\bin\Debug\netcoreapp2.2\proprietarios.pdb
+C:\aulas\fgp2019_poo\proprietarios\obj\Debug\netcoreapp2.2\proprietarios.csprojAssemblyReference.cache
+C:\aulas\fgp2019_poo\proprietarios\obj\Debug\netcoreapp2.2\proprietarios.csproj.CoreCompileInputs.cache
+C:\aulas\fgp2019_poo\proprietarios\obj\Debug\netcoreapp2.2\proprietarios.AssemblyInfoInputs.cache
+C:\aulas\fgp2019_poo\proprietarios\obj\Debug\netcoreapp2.2\proprietarios.AssemblyInfo.cs
+C:\aulas\fgp2019_poo\proprietarios\obj\Debug\netcoreapp2.2\proprietarios.dll
+C:\aulas\fgp2019_poo\proprietarios\obj\Debug\netcoreapp2.2\proprietarios.pdb
