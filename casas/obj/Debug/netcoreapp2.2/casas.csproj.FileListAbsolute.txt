@@ -1,0 +1,11 @@
+C:\aulas\fgp2019_poo\casas\bin\Debug\netcoreapp2.2\casas.deps.json
+C:\aulas\fgp2019_poo\casas\bin\Debug\netcoreapp2.2\casas.runtimeconfig.json
+C:\aulas\fgp2019_poo\casas\bin\Debug\netcoreapp2.2\casas.runtimeconfig.dev.json
+C:\aulas\fgp2019_poo\casas\bin\Debug\netcoreapp2.2\casas.dll
+C:\aulas\fgp2019_poo\casas\bin\Debug\netcoreapp2.2\casas.pdb
+C:\aulas\fgp2019_poo\casas\obj\Debug\netcoreapp2.2\casas.csprojAssemblyReference.cache
+C:\aulas\fgp2019_poo\casas\obj\Debug\netcoreapp2.2\casas.csproj.CoreCompileInputs.cache
+C:\aulas\fgp2019_poo\casas\obj\Debug\netcoreapp2.2\casas.AssemblyInfoInputs.cache
+C:\aulas\fgp2019_poo\casas\obj\Debug\netcoreapp2.2\casas.AssemblyInfo.cs
+C:\aulas\fgp2019_poo\casas\obj\Debug\netcoreapp2.2\casas.dll
+C:\aulas\fgp2019_poo\casas\obj\Debug\netcoreapp2.2\casas.pdb

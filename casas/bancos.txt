@@ -1,0 +1,27 @@
+// BDs
+
+
+//em memória
+dotnet add package Microsoft.EntityFrameworkCore.InMemory 
+//sqlite
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite (*** nao há chave estrangeira)
+//mysql
+dotnet add package Pomelo.EntityFrameworkCore.MySql
+//sqlserver
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+//tools para geracao
+dotnet add package Microsoft.EntityFrameworkCore.Tools 
+
+//geracao do versionamento
+dotnet ef migrations add TabelasIniciais 
+
+//execucao do versionamento e criaçao de tabelas
+dotnet ef database update
+
+
+//possíveis config de bancos conforme driver usado - arquivo ImoveisDBContext.cs
+optionsBuilder.UseSqlite("Data Source=c:/sqlite/bd.db");
+optionsBuilder.UseSqlServer(@"Data Source=192.168.4.116,11433;Initial Catalog=aula1;User id=SA;Password=12MS!34#");
+optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Blogging;Integrated Security=True");
+optionsBuilder.UseMySQL("server=localhost;userid=root;password=;database=base;SslMode=none");
